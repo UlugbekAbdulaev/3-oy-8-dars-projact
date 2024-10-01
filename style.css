@@ -1,0 +1,582 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    width: 100%;
+    margin: auto;
+    height: auto;
+    box-sizing: border-box;
+
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    max-width: 1440px;
+    font-family: "Raleway", sans-serif;
+}
+
+.navbar {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.nav_item ul {
+    display: flex;
+    gap: 35px;
+    list-style: none;
+}
+
+.tel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.net_adres {
+    display: flex;
+    gap: 15px;
+}
+
+
+
+/* project qismi */
+
+
+.project {
+    width: 100%;
+    height: 700px;
+    background-image: url(./images/tv-cabinet-modern-living-room-with-armchair-plant-dark-marble-wall-3d-rendering\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.liner_gradent {
+    width: 100%;
+    height: 700px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.24), rgba(0, 0, 0, 0.85));
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.liner_gradent :nth-child(1) {
+    width: 446px;
+    height: 134px;
+    font-family: "Lato", sans-serif;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67.2px;
+    text-align: center;
+    color: white;
+}
+
+.liner_gradent :nth-child(2) {
+    width: 537px;
+    height: 81px;
+    color: rgb(188, 188, 188);
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    text-align: center;
+    padding: 35px 0;
+}
+
+.liner_gradent :nth-child(3) {
+    background-color: #AE7B3C;
+    color: white;
+    width: 250px;
+    height: 45px;
+
+}
+
+.section {
+    width: 100%;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.father {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+
+}
+
+.section_box {
+    font-size: 22px;
+    line-height: 45px;
+    width: 400px;
+    height: 400px;
+}
+
+.section_box img {
+    width: 400px;
+    height: 310px;
+}
+
+
+
+
+/* main qismi */
+
+.main {
+    width: 100%;
+    height: 120px;
+    background-color: #3D4A39;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Raleway", sans-serif;
+    color: white;
+
+}
+
+.main_conituend {
+    width: 100%;
+    height: 500px;
+    background-color: #3D4A39;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+.main_box {
+    width: 30%;
+    height: auto;
+    text-align: center;
+    color: white;
+}
+
+.aside {
+    width: 100%;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    font-family: "Raleway", sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 40.8px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aside .krapka2 {
+    position: absolute;
+    top: 180px;
+    right: 0;
+}
+
+.aside .krapka1 {
+    position: absolute;
+    top: 20;
+    left: -50px;
+}
+
+.aside :nth-child(2) {
+    width: 800px;
+    text-align: center;
+
+}
+
+.aside_bottom {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.aside_bottom .left {
+    width: 40%;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+}
+
+.left img {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    position: absolute;
+    top: 32px;
+    left: 15px;
+}
+
+.left p {
+    width: 370px;
+    height: 108px;
+}
+
+
+.profesiy {
+    width: 100%;
+    height: 800px;
+
+}
+
+.profesiy_box {
+    width: 100%;
+    height: 150px;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container .starte {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 50.5px;
+}
+
+.profesiy_box span {
+    width: 187px;
+    height: 42px;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 41.6px;
+}
+
+.profesiy_box p {
+    width: 350px;
+    height: 40px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.6px;
+
+}
+
+
+.projact {
+    width: 100%;
+    height: 600px;
+    background-color: #3D4A39;
+    display: flex;
+}
+
+.lef {
+    width: 50%;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.lef h1 {
+    width: 413px;
+    height: 116px;
+}
+
+.lef p {
+    width: 306px;
+    height: 46px;
+    top: 4451px;
+    left: 200px;
+    gap: 0px;
+    opacity: 0.8px;
+
+}
+
+.lef input {
+    width: 300px;
+    height: 33px;
+    border: none;
+    border-bottom: 2px solid gray;
+    background-color: #3D4A39;
+}
+
+.lef span {
+    width: 157px;
+    height: 18px;
+    opacity: 0.5px;
+    color: gray;
+}
+
+.lef button {
+    width: 300px;
+    height: 60px;
+    padding: 22px 56px 22px 56px;
+    gap: 10px;
+    background-color: #AE7B3C;
+    color: white;
+
+}
+
+.prava {
+    width: 50%;
+    height: 600px;
+    background-image: url(./images/Rectangle\ 6.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.etap {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+
+}
+
+.heid {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.heid p {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 57.5px;
+}
+
+.etap_box {
+    width: 250px;
+    height: 220px;
+}
+
+.etap_box span {
+    width: 188px;
+    height: 18px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 18px;
+    text-align: left;
+
+}
+
+.etap_box p {
+    width: 240px;
+    height: 92px;
+    opacity: 0.8px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 23.2px;
+    text-align: left;
+    color: gray;
+}
+
+.etap_bottom {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.etap_bottom p {
+    width: 364px;
+    height: 58px;
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 57.5px;
+
+}
+
+.etap_bottom_box {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.etap__box {
+    width: 450px;
+    height: 280px;
+
+}
+
+.etap__box img {
+    width: 100%;
+    height: 75%;
+}
+
+.etap__box1 img {
+    width: 100%;
+    height: 75%;
+}
+
+.etap__box1 {
+    width: 450px;
+    height: 280px;
+}
+
+.etap__box h4 {
+    width: 272px;
+    height: 24px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+
+}
+
+.etap__box p {
+    color: gray;
+}
+
+
+
+.padaruki {
+    background-color: #F3F3F3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.padaruki2 {
+    text-align: center;
+}
+
+.padaruki2 h3 {
+    width: 362px;
+    height: 116px;
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 57.5px;
+    text-align: center;
+}
+
+.padaruki2 p {
+    width: 355px;
+    height: 44px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: center;
+}
+
+.padaruki2 button {
+    width: 260px;
+    height: 60px;
+    padding: 22px 56px 22px 56px;
+    gap: 10px;
+    background-color: #AE7B3C;
+    color: white;
+
+}
+
+.tashqi {
+    width: 100%;
+    background-color: #F3F3F3;
+    height: 450px;
+    padding-top: 50px;
+}
+
+.port {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.port p {
+    width: 382px;
+    height: 58px;
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 57.5px;
+}
+
+.portnyor {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.strilka {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-bottom: 50px;
+}
+
+
+
+.prava2 {
+    width: 50%;
+    height: 600px;
+    background-image: url(./images/Rectangle\ 6ku.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.footer {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer_box2 li {
+    list-style: none;
+    line-height: 50px;
+}
+
+.footer_box3 li {
+    list-style: none;
+    line-height: 50px;
+}
+
+.footer_box4 button {
+    height: 50px;
+    background-color: #AE7B3C;
+    color: white;
+    width: 200px;
+}
+
+.footer_logo {
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer_kones {
+    width: 100%;
+    height: 150px;
+    color: gray;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,744 @@
+@media (min-width: 320px) and (max-width: 767px) {
+    .nav_item ul {
+        display: none;
+    }
+
+    .project .liner_gradent h1 {
+        width: 320px;
+        height: 134px;
+        font-size: 45px;
+    }
+
+    .project .liner_gradent p {
+        width: 320px;
+        height: 81px;
+    }
+
+    .container {
+        width: 90%;
+    }
+
+    .project {
+        width: 100%;
+        height: 500px;
+        background-size: 500px 500px;
+
+    }
+
+    .liner_gradent {
+        width: 100%;
+        height: 500px;
+    }
+
+    .liner_gradent button {
+        margin-top: 30px;
+    }
+
+
+
+
+    /* 2 QISMI */
+
+    .section {
+        height: 50px;
+        padding-top: 50px;
+    }
+
+    .father {
+        height: auto;
+        flex-direction: column;
+        gap: 50px;
+
+
+    }
+
+    .section_box {
+        width: 100%;
+        height: 300px;
+        line-height: 25px;
+        font-size: 15px;
+        margin-bottom: 100px;
+    }
+
+    .section_box img {
+        width: 100%;
+        height: 300px;
+    }
+
+
+    /* main qismi */
+
+    .main h1 {
+        width: 238px;
+        height: 64px;
+        font-family: "Raleway", sans-serif;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 32.4px;
+        text-align: center;
+
+    }
+
+    .main_box {
+        width: 45%;
+    }
+
+    .aside .krapka1 {
+        display: none;
+    }
+
+    .aside .krapka2 {
+        display: none;
+    }
+
+
+    .aside p {
+        width: 299px;
+        height: 130px;
+        font-family: "Raleway", sans-serif;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 26px;
+
+
+    }
+
+    .aside_bottom {
+        flex-direction: column;
+        width: 100%;
+        height: 373px;
+        gap: 130px;
+    }
+
+    .left p {
+        width: 300px;
+        height: 138px;
+        font-family: "Raleway", sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 23.2px;
+
+    }
+
+    .aside_bottom .left {
+        width: 100%;
+        height: auto;
+        padding: 0;
+        margin: 0;
+    }
+
+    .left .iconca {
+        display: none;
+    }
+
+
+
+
+
+
+
+    .photo {
+        display: none;
+    }
+
+    .profesiy_box span {
+        width: 117px;
+        height: 26px;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 26px;
+        text-align: center;
+    }
+
+    .profesiy_box p {
+        width: 250px;
+        height: 44px;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 21.6px;
+        text-align: left;
+    }
+
+    .profesiy_box {
+        width: 100%;
+        padding-top: 30px;
+
+    }
+
+    .starte h1 {
+        width: 195px;
+        height: 32px;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 32.4px;
+        text-align: center;
+        padding-top: 50px;
+
+    }
+
+    .projact {
+        margin-top: 150px;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .lef {
+        width: 100%;
+        height: auto;
+    }
+
+    .prava {
+        width: 100%;
+        height: 350px;
+        background-size: 375px 350px;
+    }
+
+
+
+
+    .lef h1 {
+        width: 216px;
+        height: 68px;
+
+
+    }
+
+    .lef p {
+        width: 266px;
+        height: 46px;
+        opacity: 0.8px;
+    }
+
+    .lef input {
+        width: 300px;
+        height: 33px;
+
+    }
+
+    .lef span {
+        width: 157px;
+        height: 18px;
+        opacity: 0.5px;
+        color: gray;
+    }
+
+    .lef button {
+        width: 300px;
+        height: 60px;
+        padding: 22px 56px 22px 56px;
+        gap: 10px;
+        background-color: #AE7B3C;
+        color: white;
+
+    }
+
+    .etap {
+        width: 100%;
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    .etap__box1 {
+        display: none;
+    }
+
+    .padaruki1 {
+        display: none;
+    }
+
+    .padaruki3 {
+        display: none;
+    }
+
+    .padaruki2 h3 {
+        width: 300px;
+        height: 64px;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 32.4px;
+        text-align: center;
+
+
+    }
+
+    .padaruki2 p {
+        width: 268px;
+        height: 66px;
+        padding-left: 20px;
+    }
+
+    .tashqi {
+        width: 100%;
+        height: 350px;
+    }
+
+    .portnyor_box1 {
+        display: none;
+    }
+
+    .portnyor_box4 {
+        display: none;
+    }
+
+    .portnyor_box2 {
+        width: 50%;
+        height: auto;
+    }
+
+    .portnyor_box3 {
+        width: 50%;
+        height: auto;
+    }
+
+
+    .portnyor_box2 img {
+        width: 100%;
+    }
+
+    .portnyor_box3 img {
+        width: 100%;
+    }
+
+    .port p {
+        width: 200px;
+        height: 32px;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 32.4px;
+        text-align: left;
+
+    }
+
+    .portnyor {
+        width: 100%;
+        height: 100px;
+    }
+
+    .prava2 {
+        width: 100%;
+        height: 350px;
+        background-size: 375px 350px;
+    }
+
+    .footer_bottom {
+        display: none;
+    }
+
+    .footer_box1 {
+        width: 100%;
+        padding-bottom: 30px;
+        padding-top: 20px;
+    }
+
+    .footer_box2 {
+        width: 45%;
+    }
+
+    .footer_box3 {
+        width: 45%;
+    }
+
+    .footer {
+        flex-wrap: wrap;
+    }
+
+    .footer_logo {
+        flex-wrap: wrap;
+        width: 100%;
+        height: 500px;
+        padding-top: 250px;
+    }
+
+    .footer_box4 button {
+        width: 290px;
+    }
+}
+
+
+
+
+
+
+/* 1080 px */
+
+@media (min-width: 768px) and (max-width: 1080px) {
+    .nav_item ul {
+        gap: 10px;
+    }
+
+    .project .liner_gradent h1 {
+        width: 320px;
+        height: 134px;
+        font-size: 45px;
+    }
+
+    .project .liner_gradent p {
+        width: 320px;
+        height: 81px;
+    }
+
+    .container {
+        width: 90%;
+    }
+
+    .project {
+        width: 100%;
+        height: 500px;
+        background-size: 800px 500px;
+
+    }
+
+    .liner_gradent {
+        width: 100%;
+        height: 500px;
+    }
+
+    .liner_gradent button {
+        margin-top: 30px;
+    }
+
+
+
+
+    /* 2 QISMI */
+
+    .section {
+        height: 50px;
+        padding-top: 50px;
+    }
+
+    .father {
+        height: auto;
+        flex-direction: column;
+        gap: 50px;
+
+
+    }
+
+    .section_box {
+        width: 100%;
+        height: 300px;
+        line-height: 25px;
+        font-size: 15px;
+        margin-bottom: 100px;
+    }
+
+    .section_box img {
+        width: 100%;
+        height: 400px;
+    }
+
+
+    /* main qismi */
+
+    .main h1 {
+        width: 238px;
+        height: 64px;
+        font-family: "Raleway", sans-serif;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 32.4px;
+        text-align: center;
+
+    }
+
+    .main {
+        margin-top: 80px;
+        flex-wrap: wrap;
+    }
+
+    .main_box {
+        width: 30%;
+        height: auto;
+    }
+
+    .aside .krapka1 {
+        display: none;
+    }
+
+    .aside .krapka2 {
+        display: none;
+    }
+
+    .aside {
+        height: 100px;
+        padding-top: 80px;
+    }
+
+    .aside p {
+        width: 299px;
+        height: 130px;
+        font-family: "Raleway", sans-serif;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 26px;
+
+
+    }
+
+    .aside_bottom {
+        width: 100%;
+        height: 200px;
+        gap: 130px;
+    }
+
+    .left p {
+        width: 300px;
+        height: 138px;
+        font-family: "Raleway", sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 23.2px;
+
+    }
+
+    .aside_bottom .left {
+        width: 100%;
+        height: auto;
+        padding: 0;
+        margin: 0;
+    }
+
+    .left .iconca {
+        display: none;
+    }
+
+
+
+
+
+
+
+    .photo {
+        display: none;
+    }
+
+    .profesiy_box span {
+        width: 117px;
+        height: 26px;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 26px;
+        text-align: center;
+    }
+
+    .profesiy_box p {
+        width: 250px;
+        height: 44px;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 21.6px;
+        text-align: left;
+    }
+
+    /* .profesiy{
+        display: flex;
+        flex-wrap: wrap;
+    } */
+
+    .profesiy_box {
+        width: 95%;
+        padding-top: 30px;
+
+    }
+
+    .starte h1 {
+        width: 195px;
+        height: 32px;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 32.4px;
+        text-align: center;
+        padding-top: 50px;
+
+    }
+
+    .projact {
+        margin-top: 150px;
+        height: auto;
+    }
+
+    .lef {
+        width: 46%;
+        height: auto;
+    }
+
+    .prava {
+        width: 46%;
+        height: 400px;
+        background-size: 100% 500px;
+        padding: 0;
+        margin: 0;
+    }
+
+
+
+
+    .lef h1 {
+        width: 216px;
+        height: 68px;
+
+
+    }
+
+    .lef p {
+        width: 266px;
+        height: 46px;
+        opacity: 0.8px;
+    }
+
+    .lef input {
+        width: 300px;
+        height: 33px;
+
+    }
+
+    .lef span {
+        width: 157px;
+        height: 18px;
+        opacity: 0.5px;
+        color: gray;
+    }
+
+    .lef button {
+        width: 300px;
+        height: 60px;
+        padding: 22px 56px 22px 56px;
+        gap: 10px;
+        background-color: #AE7B3C;
+        color: white;
+
+    }
+
+    .etap {
+        width: 100%;
+        flex-wrap: wrap;
+        gap: 25px;
+    }
+    .etap_box{
+        width: 45%;
+    }
+
+    .etap__box1 {
+        display: none;
+    }
+
+    .padaruki1 {
+        display: none;
+    }
+
+    .padaruki3 {
+        display: none;
+    }
+
+    .padaruki2 h3 {
+        width: 300px;
+        height: 64px;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 32.4px;
+        text-align: center;
+    }
+
+    .etap_bottom_box{
+        flex-direction: column;
+        width: 100%;
+        height: 500px;
+        padding: 0;
+        margin: 0;
+    }
+
+    .padaruki2 p {
+        width: 268px;
+        height: 66px;
+        padding-left: 20px;
+    }
+
+    .tashqi {
+        width: 100%;
+        height: 350px;
+    }
+
+    .portnyor_box1 {
+        display: none;
+    }
+
+    .portnyor_box4 {
+        display: none;
+    }
+
+    .portnyor_box2 {
+        width: 50%;
+        height: auto;
+    }
+
+    .portnyor_box3 {
+        width: 50%;
+        height: auto;
+    }
+
+
+    .portnyor_box2 img {
+        width: 100%;
+    }
+
+    .portnyor_box3 img {
+        width: 100%;
+    }
+
+    .port p {
+        width: 200px;
+        height: 32px;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 32.4px;
+        text-align: left;
+
+    }
+
+    .portnyor {
+        width: 100%;
+        height: 100px;
+    }
+
+    .prava2 {
+        width: 100%;
+        height: 350px;
+        background-size: 375px 350px;
+    }
+
+    .footer_bottom {
+        display: none;
+    }
+
+    .footer_box1 {
+        width: 100%;
+        padding-bottom: 30px;
+        padding-top: 20px;
+    }
+
+    .footer_box2 {
+        width: 45%;
+    }
+
+    .footer_box3 {
+        width: 45%;
+    }
+
+    .footer {
+        flex-wrap: wrap;
+    }
+
+    .footer_logo {
+        flex-wrap: wrap;
+        width: 100%;
+        height: 500px;
+        padding-top: 250px;
+    }
+
+    .footer_box4 button {
+        width: 290px;
+    }
+
+
+}
